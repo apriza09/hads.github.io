@@ -20,20 +20,20 @@
   <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient shadow mb-3">
     <div class="container">
-      <a class="navbar-brand fw-bold" href="/">Contacts</a>
+      <a class="navbar-brand fw-bold" href="/">Contacts & Offical Group</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://instagram.com/apriza_09">my Instagram</a>
+            <a class="nav-link active" aria-current="page" href="https://instagram.com/apriza_09">MY INSTAGRAM</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://instagram.com/daffi_d_2607">Instagram partner</a>
+            <a class="nav-link active" aria-current="page" href="https://instagram.com/daffi_d_2607">INSTAGRAM MY PARTNER</a>
           </li>
             <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">Official Group</a>
+            <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">OFFCIAL GROUP</a>
           </li>
         </ul>
       </div>
@@ -46,8 +46,8 @@
       <div class="text-center">
         <img src="https://avatars.githubusercontent.com/u/80442721?v=4" class="rounded-circle shadow mb-3" alt="Hads" width="150px" height="150px">
       </div>
-        <p class="card-text text-shadow">Halo teman selamat datang website ini saya buat karena gabut saja<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR<br/>Saya masih belajar tentang programming<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya<br/>
-        Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain bot saya? Silahkan hubungi kami<br/>Terimakasih Telah Berkunjung.</p>
+        <p class="card-text text-shadow">Halo teman selamat datang. website ini saya buat karena gabut saja.<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR.<br/>Saya masih belajar tentang programming.<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya.<br/>
+        Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++.<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain botnya? Silahkan join group  offical kami<br/>Terimakasih Telah Berkunjung.</p>
           <head>
 
   <html lang="en">
@@ -62,7 +62,7 @@
 
 <body>
 
-  <h1>Musik Nih</h1>
+  <h1>Musik Nih Bro Dengerin Dulu Skuy:v</h1>
 
   <audio controls>
 
