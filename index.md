@@ -47,23 +47,37 @@
       </div>
         <p class="card-text text-shadow">Halo teman selamat datang website ini saya buat karena gabut saja<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR<br/>Saya masih belajar tentang programming<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya<br/>
         Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain bot saya? Silahkan hubungi kami<br/>Terimakasih Telah Berkunjung.</p>
+          <head>
+
+  <html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Musik</title>
+
+</head>
+
+<body>
+
+  <h1>Musik Nih</h1>
+
+  <audio controls>
+
+    <source src="https://github.com/apriza09/aboutme.github.io/raw/main/audio/nightcore.mp3" type="audio/mpeg">
+
+    Browsermu tidak mendukung tag audio, upgrade donk!
+
+  </audio>
+
+</body>
+
+</html>
       </div>
     </div>
   </div>
-    <head>
-  <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Musik</title>
-</head>
-<body>
-  <h1>Musik Nih</h1>
-  <audio controls>
-    <source src="https://github.com/apriza09/aboutme.github.io/raw/main/audio/nightcore.mp3" type="audio/mpeg">
-    Browsermu tidak mendukung tag audio, upgrade donk!
-  </audio>
-</body>
-</html>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
   </body>
 </html>
