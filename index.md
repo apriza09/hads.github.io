@@ -2,7 +2,7 @@
 
 <html lang="id">
     <h1>Welcom To My Github Pages</h1>
-    <b>"If you want live a happy life, tie it to a goal, not to people or things." – Albert Einstein</b>
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="APP Caranya My Id, Web Aplikasi Yang Berguna Untuk 1000 Umat" />
@@ -49,7 +49,8 @@
       </div>
         <p class="card-text text-shadow">Halo teman selamat datang. website ini saya buat karena gabut saja.<br/>Umur saya baru 15 tahun dan masih menjadi seorang pelajar di SMPN 3 KARAWANG TIMUR.<br/>Saya masih belajar tentang programming.<br/>Belajar programming Otodidak, mulai dari YouTube dan web2 lainnya.<br/>
         Dengan nama asli saya <b>Fahad Vidjar Apriza</b><br/>Bahasa pemrograman yang saya ketahui hanya sedikit, yaitu (HTML/JavaScript), Python, C++.<b/><br/>Saya juga punya projects bot whatsapp yang sekarang masih dalam pengembangan, mohon dukungan dan doa nya agar bot whatsapp saya bermanfaat bagi semuanya. Mau nyobain botnya? Silahkan join group  offical kami<br/>Terimakasih Telah Berkunjung.</p>
-          <head>
+          <b>"If you want live a happy life, tie it to a goal, not to people or things." – Albert Einstein</b>
+<head>
 
   <html lang="en">
 
