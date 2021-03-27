@@ -2,6 +2,7 @@
 
 <html lang="id">
     <h1>Welcom To My Github Pages</h1>
+    <b>"If you want live a happy life, tie it to a goal, not to people or things." – Albert Einstein</b>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="APP Caranya My Id, Web Aplikasi Yang Berguna Untuk 1000 Umat" />
