@@ -33,7 +33,7 @@
             <a class="nav-link active" aria-current="page" href="https://instagram.com/daffi_d_2607">INSTAGRAM MY PARTNER</a>
           </li>
             <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">OFFCIAL GROUP</a>
+            <a class="nav-link active" aria-current="page" href="https://chat.whatsapp.com/JC8RUcuy5q2B1plmsz1uAq">OFFICIAL GROUP</a>
           </li>
         </ul>
       </div>
